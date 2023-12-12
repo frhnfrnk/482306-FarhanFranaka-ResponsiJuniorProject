@@ -1,0 +1,49 @@
+# Visual Studio generated files
+
+.vs/
+*.suo
+*.user
+*.useross
+*.vssscc
+*.vssettings
+*.vstemplate
+*.ipch
+*.pch
+*.ncb
+*.pdb
+
+# Other generated files
+
+bin/
+obj/
+*.bin
+*.dll
+*.exe
+*.lib
+*.exp
+*.log
+*.njsproj
+*.nuget.config
+*.pidb
+*.runtimeconfig.json
+*.tlog
+*.vsixmanifest
+*.wpfproj
+
+# Temporary files
+
+*.tmp
+*~
+
+# Build output
+
+**/bin/Debug/
+**/bin/Release/
+**/obj/Debug/
+**/obj/Release/
+
+# .NET Core temporary files
+
+**/tmp/
+**/bin/
+**/obj/
